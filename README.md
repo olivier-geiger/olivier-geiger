@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**olivier-geiger/olivier-geiger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+** olivier-geiger/olivier-geiger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -10,15 +10,15 @@ Here are some ideas to get you started:
 
 My skills:
 
-HTML
-CSS
-SASS
-JavaScript
-React
-Redux
-TypeScript ( currently learning )
-NodeJS ( currently learning )
-MongoDB
-NextJS ( ecurrently learning )
+HTML / CSS / SASS
+JavaScript TypeScript ( currently learning )
+
+React / Redux /NextJS
+Vue / Vuex / NuxtJS
+
+NodeJS / MongoDB( currently learning )
+Firebase /  Firestore
+
+Bootstrap 5
 TailwindCSS
 -->
